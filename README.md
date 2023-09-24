@@ -3,14 +3,11 @@
   
 ## InstalaçãoPara executar esta aplicação, certifique-se de ter o Python e o Flask instalados em sua máquina.
 
-  1. Clone o repositório:   
-  ```bash git clone https://github.com/seu-usuário/aplicacao-flask.git ```
+  1. Clone o repositório: ```bash git clone https://github.com/seu-usuário/aplicacao-flask.git ```
   
-  3.  Navegue até o diretório do projeto:
-  ``` cd aplicacao-flask ```
+  3.  Navegue até o diretório do projeto: ``` cd aplicacao-flask ```
   
-  4.  Instale as dependências:
-  ``` pip install -r requirements.txt ```
+  4.  Instale as dependências: ``` pip install -r requirements.txt ```
 
 ## Uso
 
